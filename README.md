@@ -1,7 +1,7 @@
 # Flutter Platforms Customizer: VS Code Extension
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/FaisaljanBaloch/flutter-platforms-customizer?style=flat-square)
-![GitHub](https://img.shields.io/github/license/FaisaljanBaloch/flutter-platforms-customizer?style=flat-square)
+![License](https://img.shields.io/github/license/FaisaljanBaloch/flutter-platforms-customizer)
 ![VSCode](https://img.shields.io/badge/vscode-extension-blue?logo=visualstudiocode&style=flat-square)
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?logo=flutter&logoColor=white&style=flat-square)
 
