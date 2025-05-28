@@ -3,11 +3,34 @@
   "displayName": "Flutter Platforms Customizer",
   "description": "Create a new Flutter project with selectable platforms (android, ios, web, windows, macos, linux) via flutter create --platforms.",
   "version": "0.0.1",
+  "publisher": "Faisaljan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FaisaljanBaloch/flutter-platforms-customizer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FaisaljanBaloch/flutter-platforms-customizer.git/issues"
+  },
+  "icon": "images/icon.png",
+  "keywords": [
+    "flutter",
+    "platforms",
+    "android",
+    "ios",
+    "web",
+    "windows",
+    "macos",
+    "linux",
+    "project",
+    "generator"
+  ],
   "engines": {
     "vscode": "^1.100.0"
   },
   "categories": [
-    "Other"
+    "Other",
+    "Programming Languages"
   ],
   "main": "./dist/extension.js",
   "contributes": {
